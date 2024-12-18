@@ -7,7 +7,7 @@ releases:
   v1: Sun Feb  3 00:39:37 EET 2019
 website: http://opus.nlpl.eu/Bianet.php
 description: >
-  A parallel news corpus in Turkish, Kurdish and English; Source: https://d-ataman.github.io/bianet/
+  A parallel and non-parallel news corpus in Turkish, Kurdish and English; Source: https://d-ataman.github.io/bianet/
   Bianet collects 3,214 Turkish articles with their sentence-aligned Kurdish or English translations from the <a href="https://bianet.org/" target="_blank">Bianet online newspaper</a>. This corpus is distributed under the CC-BY-SA-4.0 open license.
 bibtex: empty
 cite: >
